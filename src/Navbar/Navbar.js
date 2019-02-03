@@ -37,7 +37,6 @@ const Navbar = (props) => {
           <Typography variant="h6" color="inherit" className={classes.grow}>
             {props.name}
           </Typography>
-          <Button color="inherit" className={classes.rightButton} disabled>Login</Button>
         </Toolbar>
       </AppBar>
     </div>

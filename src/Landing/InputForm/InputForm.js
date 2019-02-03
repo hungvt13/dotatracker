@@ -67,6 +67,7 @@ class InputForm extends Component {
                             variant="outlined"
                         /> 
                     }
+                    <br/><br/>
                 </form>
                 <Button 
                     variant="contained" 
